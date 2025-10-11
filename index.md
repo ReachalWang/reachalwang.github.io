@@ -4,16 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Previously, I earned my Master degree in Electronic and Information Engineering in Shanghai Jiao Tong University (advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html)) and my Bachelor degree in Electrical Engineering from Tianjin University. 
+
+My research lies at the intersection of physical optics, computer science, focusing on computational imaging, computational displays (holography), wavefront shaping and optical neural network.
+
+Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for any inquiries within my area. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computational Imaging** 
+- **Computational Display** 
+- **Optical Neural Network** 
+- **Wavefront Shaping** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** Our paper Holozip was accepted by ICCP.
+- **[Aug. 2024]** Will start my next period in Chapel Hill!
+- **[Mar. 2024]** Admitted by the CS program of UNC.
+- **[Mar. 2024]** Admitted by the joint BME progam of Georgia Tech and Emory.
