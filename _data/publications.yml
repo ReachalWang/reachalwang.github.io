@@ -25,7 +25,7 @@ main:
     image: ./assets/img/Holozip.png
 
   - title: "Time series analysis for financial indices using optical reservoir computing"
-    authors: Yuan Qu, <strong>Hengyu Lian</strong>, Rongjun Shao, Jiahao Liu, Linxian Liu, Jiamiao Yang
+    authors: Yuan Qu†, <strong>Hengyu Lian†</strong>, Rongjun Shao, Jiahao Liu, Linxian Liu, Jiamiao Yang
     conference_short: Optical Engineering
     conference: Optical Engineering.
     pdf: https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.full
