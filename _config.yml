@@ -40,6 +40,19 @@ font: "Serif" # or "Sans Serif"
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
 
+# University Logos
+# Add logos that will be displayed vertically in the sidebar
+university_logos:
+  - name: "University of North Carolina at Chapel Hill"
+    image: ./assets/img/logos/unc_logo.png
+    link: https://www.unc.edu/
+  - name: "Shanghai Jiao Tong University"
+    image: ./assets/img/logos/sjtu_logo.png
+    link: https://www.sjtu.edu.cn/
+  - name: "Tianjin University"
+    image: ./assets/img/logos/tju_logo.png
+    link: https://www.tju.edu.cn/
+
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light

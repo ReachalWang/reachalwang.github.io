@@ -92,6 +92,16 @@
         </div>
         <br>
 
+        {% if site.university_logos %}
+        <div class="university-logos">
+          {% for logo in site.university_logos %}
+          <a href="{{ logo.link }}" target="_blank" rel="noopener" title="{{ logo.name }}">
+            <img src="{{ logo.image }}" alt="{{ logo.name }}" class="university-logo">
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+
       </header>
       <section>
 

@@ -19,6 +19,26 @@
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
+
+.university-logos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.university-logo {
+  width: 80px;
+  height: auto;
+  opacity: 0.8;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.university-logo:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
     /*
     .social-icons a:after {
         content: '';
@@ -35,9 +55,19 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+@media (prefers-color-scheme: dark) {
+  .social-icons a:last-child{margin-right:0}
+  .social-icons a:hover{background-color:#20212b;
     color:black;
     transform: scale(1.2)} 
+  
+  .university-logo {
+    opacity: 0.7;
+  }
+  
+  .university-logo:hover {
+    opacity: 0.95;
+  }
     /*
     .social-icons a:after {
         content: '';
