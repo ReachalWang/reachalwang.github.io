@@ -1,24 +1,7 @@
-main:
+# Services section has been moved to index.md for a cleaner look
+# If you need to add services in the future, uncomment and edit below:
 
-  Teaching Assistant:
-      - title: "Americans with Disabilities Act (ADA) - Aug. 2025 to Present (Advisor: Prof. Brent Munsell)"
-        link: "#"
-
-      - title: "COMP 590-059: Programming Methods, Models, Languages and Analysis - Aug. 2024 to May 2025 (Advisor: Prof. David Stotts)"
-        link: "#"
-        
-  # Conference Reviewers:
-    
-  #     - title: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023
-  #       link: http://cvpr2023.thecvf.com/
-  #     - title: IEEE/CVF International Conference on Computer Vision (ICCV) 2021
-  #       link: http://iccv2021.thecvf.com/
-  #     - title: European Conference on Computer Vision (ECCV) 2022
-  #       link: https://eccv2022.ecva.net/
-
-  # Journal Reviewers:
-
-  #     - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  #       link: https://www.computer.org/csdl/journal/tp
-  #     - title: International Journal of Computer Vision (IJCV)
-  #       link: https://www.springer.com/journal/11263
+# main:
+#   Conference Reviewers:
+#     - title: Conference Name
+#       link: https://example.com

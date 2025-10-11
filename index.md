@@ -23,3 +23,10 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
 - **[Aug. 2024]** Will start my next period in Chapel Hill!
 - **[Mar. 2024]** Admitted by the CS program of UNC.
 - **[Mar. 2024]** Admitted by the joint BME progam of Georgia Tech and Emory.
+
+## Teaching Assistant
+
+- **[Aug. 2025 - Present]** Americans with Disabilities Act (ADA)  
+  Advisor: Prof. Brent Munsell
+- **[Aug. 2024 - May 2025]** COMP 590-059: Programming Methods, Models, Languages and Analysis  
+  Advisor: Prof. David Stotts
