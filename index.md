@@ -4,29 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Previously, I earned my Master degree in Electronic and Information Engineering in Shanghai Jiao Tong University (advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html)) and my Bachelor degree in Electrical Engineering from Tianjin University. 
+I am a second-year Ph.D. student in Electrical and Computer Engineering at Duke University, advised by [Prof. Neil Gong](https://people.duke.edu/~zg70/). Previously, I earned my Bachelor's degree in Information Security (IEEE Honor Class) from Shanghai Jiao Tong University.
 
-My research lies at the intersection of physical optics, computer science, focusing on computational imaging, computational displays (holography), wavefront shaping and optical neural network.
+My research broadly lies in AI security, and I am currently focusing on prompt injection attacks and defenses for LLM applications and agents.
 
-Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for any inquiries within my area. 
+Please feel free to email me [reachal dot wang at duke dot edu](mailto:reachal.wang@duke.edu) for any inquiries related to my research.
 
 ## Research Interests
 
-- **Computational Imaging** 
-- **Computational Display** 
-- **Optical Neural Network** 
-- **Wavefront Shaping** 
-
+- **LLM security**, including prompt injection attacks and defenses for LLM applications and agents.
 ## News
 
-- **[May. 2025]** Our paper Holozip was accepted by ICCP.
-- **[Aug. 2024]** Will start my next period in Chapel Hill!
-- **[Mar. 2024]** Admitted by the CS program of UNC.
-- **[Mar. 2024]** Admitted by the joint BME progam of Georgia Tech and Emory.
+- **[Dec. 2025]** Our paper ObliInjection was accepted by NDSS.
+- **[Jan. 2024]** Admitted by the ECE program of Duke.
 
 ## Teaching Assistant
 
-- **[Aug. 2025 - Present]** Americans with Disabilities Act (ADA)  
-  Advisor: Prof. Brent Munsell
-- **[Aug. 2024 - May 2025]** COMP 590-059: Programming Methods, Models, Languages and Analysis  
-  Advisor: Prof. David Stotts
+- **[Aug. 2025 - Present]** Practical Machine Learning  
+  Advisor: Prof. Xiang Cheng
