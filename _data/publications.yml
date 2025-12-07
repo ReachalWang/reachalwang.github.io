@@ -1,36 +1,36 @@
 main:
 
-  - title: "High-frame-rate reconfigurable diffractive neural network based on superpixels"
-    authors: Yuan Qu†, <strong>Hengyu Lian†</strong>, Chunxu Ding, Huazhen Liu, Linxian Liu, Jiamiao Yang
-    conference_short: Optics Letters
-    conference: Optics Letters.
-    pdf: https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-19-5025
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:u5zuv4wSOTkJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCFXoA:AAZF9b8AAAAAaOqDRoBPL5GXRkMBlAP13Raq-yc&scisig=AAZF9b8AAAAAaOqDRhzgVxRy-MQAWorewPC9YhQ&scisf=4&ct=citation&cd=-1&hl=en"
-    image: ./assets/img/sDNN.png
+  - title: "ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data"
+    authors: <strong>Ruiqi Wang</strong>, Yuqi Jia, Neil Zhenqiang Gong
+    conference_short: NDSS 2026
+    conference: ISOC Network and Distributed System Security Symposium (NDSS).
+    # pdf: https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-19-5025
+    # bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:u5zuv4wSOTkJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCFXoA:AAZF9b8AAAAAaOqDRoBPL5GXRkMBlAP13Raq-yc&scisig=AAZF9b8AAAAAaOqDRhzgVxRy-MQAWorewPC9YhQ&scisf=4&ct=citation&cd=-1&hl=en"
+    image: ./assets/img/ObliInjection.png
 
-  - title: "High-accuracy phase unwrapping based on binarized wrap count"
-    authors: Huazhen Liu, Rongjun Shao, Yuan Qu, Chunxu Ding, <strong>Hengyu Lian</strong>, Siqi Wu, and Jiamiao Yang
-    conference_short: Optics Express
-    conference: Optics Express.
-    pdf: https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-31-10-18318&id=454752
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:USQrR1jXRj0J:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCtOE:AAZF9b8AAAAAaOqErOENoLesZ-8t7l1vT2xiEHQ&scisig=AAZF9b8AAAAAaOqErCM3neNbg0DKza4NOA6TFTM&scisf=4&ct=citation&cd=-1&hl=en"
-    image: ./assets/img/phaseunwrap.png
+  # - title: "High-accuracy phase unwrapping based on binarized wrap count"
+  #   authors: Huazhen Liu, Rongjun Shao, Yuan Qu, Chunxu Ding, <strong>Hengyu Lian</strong>, Siqi Wu, and Jiamiao Yang
+  #   conference_short: Optics Express
+  #   conference: Optics Express.
+  #   pdf: https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-31-10-18318&id=454752
+  #   bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:USQrR1jXRj0J:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCtOE:AAZF9b8AAAAAaOqErOENoLesZ-8t7l1vT2xiEHQ&scisig=AAZF9b8AAAAAaOqErCM3neNbg0DKza4NOA6TFTM&scisf=4&ct=citation&cd=-1&hl=en"
+  #   image: ./assets/img/phaseunwrap.png
 
-  - title: "HoloZip: High Hologram Compression via Latent-of-Latent Coding"
-    authors: Huaizhi Qu*, Yujie Wang*, Ruichen Zhang, <strong>Hengyu Lian</strong>, Mufan Qiu, Samarjit Chakraborty, Henry Fuchs, Tianlong Chen, Praneeth Chakravarthula
-    conference_short: ICCP
-    conference: IEEE International Conference on Computational Photography.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11143849
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:POpaGROcqhgJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCDY9s:AAZF9b8AAAAAaOqFe9u3t2jNaMp8srmN6pURctk&scisig=AAZF9b8AAAAAaOqFe59LQhCRkDmHf_JGv8koE1U&scisf=4&ct=citation&cd=-1&hl=en"
-    image: ./assets/img/Holozip.png
+  # - title: "HoloZip: High Hologram Compression via Latent-of-Latent Coding"
+  #   authors: Huaizhi Qu*, Yujie Wang*, Ruichen Zhang, <strong>Hengyu Lian</strong>, Mufan Qiu, Samarjit Chakraborty, Henry Fuchs, Tianlong Chen, Praneeth Chakravarthula
+  #   conference_short: ICCP
+  #   conference: IEEE International Conference on Computational Photography.
+  #   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11143849
+  #   bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:POpaGROcqhgJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCDY9s:AAZF9b8AAAAAaOqFe9u3t2jNaMp8srmN6pURctk&scisig=AAZF9b8AAAAAaOqFe59LQhCRkDmHf_JGv8koE1U&scisf=4&ct=citation&cd=-1&hl=en"
+  #   image: ./assets/img/Holozip.png
 
-  - title: "Time series analysis for financial indices using optical reservoir computing"
-    authors: Yuan Qu†, <strong>Hengyu Lian†</strong>, Rongjun Shao, Jiahao Liu, Linxian Liu, Jiamiao Yang
-    conference_short: Optical Engineering
-    conference: Optical Engineering.
-    pdf: https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.full
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:B4GToz1dLgUJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCFIE:AAZF9b8AAAAAaOqEDIGrQ2EdDnNHAmzuNmHBxJw&scisig=AAZF9b8AAAAAaOqEDEG4unAECEzmS80LsF7WzDo&scisf=4&ct=citation&cd=-1&hl=en"
-    image: ./assets/img/RC.png
+  # - title: "Time series analysis for financial indices using optical reservoir computing"
+  #   authors: Yuan Qu†, <strong>Hengyu Lian†</strong>, Rongjun Shao, Jiahao Liu, Linxian Liu, Jiamiao Yang
+  #   conference_short: Optical Engineering
+  #   conference: Optical Engineering.
+  #   pdf: https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.full
+  #   bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:B4GToz1dLgUJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCFIE:AAZF9b8AAAAAaOqEDIGrQ2EdDnNHAmzuNmHBxJw&scisig=AAZF9b8AAAAAaOqEDEG4unAECEzmS80LsF7WzDo&scisf=4&ct=citation&cd=-1&hl=en"
+  #   image: ./assets/img/RC.png
 
   # Example publication format (commented out):
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
