@@ -6,7 +6,7 @@ main:
     conference: ISOC Network and Distributed System Security Symposium (NDSS).
     # pdf: https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-19-5025
     # bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:u5zuv4wSOTkJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCFXoA:AAZF9b8AAAAAaOqDRoBPL5GXRkMBlAP13Raq-yc&scisig=AAZF9b8AAAAAaOqDRhzgVxRy-MQAWorewPC9YhQ&scisf=4&ct=citation&cd=-1&hl=en"
-    image: ./assets/img/ObliInjection.png
+    image: ./assets/img/obliinjection.png
 
   # - title: "High-accuracy phase unwrapping based on binarized wrap count"
   #   authors: Huazhen Liu, Rongjun Shao, Yuan Qu, Chunxu Ding, <strong>Hengyu Lian</strong>, Siqi Wu, and Jiamiao Yang
