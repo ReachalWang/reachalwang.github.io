@@ -13,6 +13,7 @@ Please feel free to email me [reachal dot wang at duke dot edu](mailto:reachal.w
 ## Research Interests
 
 - **LLM security**, including prompt injection attacks and defenses for LLM applications and agents.
+
 ## News
 
 - **[Dec. 2025]** Our paper ObliInjection was accepted by NDSS.
@@ -22,3 +23,10 @@ Please feel free to email me [reachal dot wang at duke dot edu](mailto:reachal.w
 
 - **[Aug. 2025 - Present]** Practical Machine Learning  
   Advisor: Prof. Xiang Cheng
+
+## Awards
+
+- **[Jun. 2024]** Shanghai Outstanding Graduate (top 5%)
+- **[Sep. 2023]** National Scholarship (top 2%)
+- **[Sep. 2021]** National Scholarship (top 2%)
+
