@@ -12,7 +12,9 @@ Please feel free to email me [reachal dot wang at duke dot edu](mailto:reachal.w
 
 ## Research Interests
 
-- **LLM security**, including prompt injection attacks and defenses for LLM applications and agents.
+- **LLM Security & Robustness**, investigating prompt injection, jailbreak attacks, and defense methods for LLM-based applications and agent systems.
+- **Trustworthy Coding Agents**, including engineering reliable and verifiable agents for secure software development and advanced reasoning tasks.
+
 
 ## News
 
