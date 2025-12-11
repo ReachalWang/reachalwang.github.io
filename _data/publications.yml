@@ -4,7 +4,7 @@ main:
     authors: <strong>Ruiqi Wang</strong>, Yuqi Jia, Neil Zhenqiang Gong
     conference_short: NDSS 2026
     conference: ISOC Network and Distributed System Security Symposium (NDSS).
-    # pdf: https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-19-5025
+    pdf: https://arxiv.org/abs/2512.09321
     # bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:u5zuv4wSOTkJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCFXoA:AAZF9b8AAAAAaOqDRoBPL5GXRkMBlAP13Raq-yc&scisig=AAZF9b8AAAAAaOqDRhzgVxRy-MQAWorewPC9YhQ&scisf=4&ct=citation&cd=-1&hl=en"
     image: ./assets/img/obliinjection.jpg
 
