@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0"
+gem "github-pages", group: :jekyll_plugins
 
-gem "webrick", "~> 1.8"
+# Disable jekyll-watch to avoid eventmachine on ARM
+gem "jekyll-watch", "~> 2.2", platform: :ruby
