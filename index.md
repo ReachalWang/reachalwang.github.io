@@ -12,7 +12,7 @@ My research broadly lies in AI security and trustworthy AI. My earlier work stud
 
 <!-- Please feel free to email me [reachal dot wang at duke dot edu](mailto:reachal.wang@duke.edu) for any inquiries related to my research. -->
 
-**I am looking for research internships for Summer 2027.** If you think my background could be a good fit, feel free to reach out at [reachal dot wang at duke dot edu](mailto:reachal.wang@duke.edu).
+<strong style="color:#e74d3c">I am looking for research internships for Summer 2027.</strong> If you think my background could be a good fit, feel free to reach out at [reachal dot wang at duke dot edu](mailto:reachal.wang@duke.edu).
 
 ## Research Interests
 
